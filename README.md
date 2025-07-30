@@ -1,31 +1,105 @@
-<h1 align="center">Hi 👋, I'm Syed Hassan Arslan</h1>
-<h3 align="center">A passionate software developer from Pakistan</h3> <p align="center"> <img src="https://komarev.com/ghpvc/?username=shahidzbi4213&label=Profile%20views&color=0e75b6&style=flat" alt="Shahid Iqbal" /> </p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Syed Hassan Arslan - Professional Profile</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      background-color: #f4f7fa;
+      color: #333;
+    }
+    .container {
+      max-width: 800px;
+      margin: 40px auto;
+      background: white;
+      padding: 40px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+    }
+    h1 {
+      color: #2c3e50;
+      font-size: 32px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      color: #16a085;
+      font-size: 20px;
+      margin-top: 0;
+    }
+    p {
+      line-height: 1.6;
+    }
+    .section {
+      margin-top: 30px;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    li {
+      margin-bottom: 8px;
+    }
+    .contact {
+      margin-top: 20px;
+    }
+    .contact a {
+      color: #2980b9;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
 
-- 🔭 I’m currently working on **<a href="https://play.google.com/store/apps/details?id=com.pdfviewer.pdfreader.eagle.apps&hl=en&gl=US"All document Reader - Edit PDF</a>** 
+<div class="container">
+  <h1>Syed Hassan Arslan</h1>
+  <h2>Senior Software Engineer | 5+ Years of Experience</h2>
+  
+  <p>
+    I am a highly motivated and detail-oriented software engineer with over 5 years of hands-on experience in building scalable, secure, and user-centric applications. My expertise spans full-stack development, mobile app development, and modern software architecture. I am passionate about solving complex problems and delivering high-quality digital solutions.
+  </p>
 
-- 🌱 I’m currently learning **Jetpack Compose**
+  <div class="section">
+    <h3>Core Competencies</h3>
+    <ul>
+      <li>Android Development (Jetpack Compose, MVVM, Clean Architecture)</li>
+      <li>Web Development (HTML, CSS, JavaScript, React)</li>
+      <li>API Integration (RESTful APIs, Retrofit, Ktor)</li>
+      <li>Software Architecture & Design Patterns</li>
+      <li>Version Control (Git, GitHub, GitLab)</li>
+      <li>Agile & Scrum Methodologies</li>
+    </ul>
+  </div>
 
-- 👯 I’m looking to collaborate on **Android Projects**
+  <div class="section">
+    <h3>Professional Experience</h3>
+    <p><strong>Senior Android Developer</strong> – XYZ Solutions | 2021–Present</p>
+    <ul>
+      <li>Led the development of scalable Android apps with Jetpack Compose and MVVM architecture.</li>
+      <li>Improved app performance and reduced ANRs by optimizing threading and memory usage.</li>
+    </ul>
 
-- 💬 Ask me about **android, kotlin, java,compose**
+    <p><strong>Software Engineer</strong> – ABC Tech | 2018–2021</p>
+    <ul>
+      <li>Developed cross-platform solutions and collaborated with backend teams for seamless API integration.</li>
+      <li>Built reusable UI components to streamline future development cycles.</li>
+    </ul>
+  </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/syedhassanarslan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Syed Hassan Arslan" height="30" width="40" /></a>
-</p>
+  <div class="section">
+    <h3>Education</h3>
+    <p><strong>Bachelor of Science in Computer Science</strong><br/>
+    University of XYZ, Graduation: 2018</p>
+  </div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
+  <div class="section contact">
+    <h3>Contact</h3>
+    <p>Email: <a href="mailto:hassanarofficial@gmail.com">hassanarofficial@gmail.com</a><br/>
+    LinkedIn: <a href="https://www.linkedin.com/in/syedhassanar" target="_blank">linkedin.com/in/syedhassanar</a><br/>
+    GitHub: <a href="https://github.com/syedhassanar" target="_blank">github.com/syedhassanar</a></p>
+  </div>
+</div>
 
-<a href="https://developer.android.com/studio?gclid=Cj0KCQiA4aacBhCUARIsAI55maGhJlrF3nY4KnxvrDG7nH8KKb8AhxzaxvHOFaSNF1PJ1OslUYLySoaAuIDEALw_wcB&gclsrc=aw.ds" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/android_studio_alt_macos_bigsur_icon_190395.png" alt="android studio" width="45" height="45"/> </a> <a href="https://firebase.google.com"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://www.postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a>
-<a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="MongoDb" width="40" height="40"/></a>
-<img src="https://www.vectorlogo.zone/logos/cmake/cmake-icon.svg" alt="MongoDb" width="40" height="40"/>
-<a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/android/android-official.svg" alt="Android" width="40" height="40"/></a>
-<a href="https://codewithsyedarslan.blogspot.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/blogger/blogger-tile.svg" alt="Blog" width="40" height="40"/></a>
-</p>
-
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHassanArslan&hide=javascript,html,css,scss&layout=compact"/>
-<img src = "https://github-readme-stats.vercel.app/api?username=SyedHassanArslan&show_icons=true&theme=radical"/>
-<img alt="Check out SyedHassanArslan&apos;s profile on stardev.io" src="https://stardev.io/developers/SyedHassanArslan/badge/languages/locality.svg" />
+</body>
+</html>
