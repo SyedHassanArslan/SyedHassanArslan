@@ -23,9 +23,9 @@ I’m a results-driven **Senior Android Engineer** with **5+ years of profession
 </div>
 
 ### 🛠️ Core Expertise
-* **Languages & UI:** Kotlin, Java, Jetpack Compose, XML/View System
+* **Languages & UI:** Kotlin, Java, Jetpack Compose, XML / View System
 * **Architecture & DI:** MVVM, MVI, Clean Architecture, Dependency Injection (Hilt / Dagger)
-* **Networking & Local Data:** Retrofit, Ktor, Room DB, Datastore, Flow/Coroutines
+* **Networking & Local Data:** Retrofit, Ktor, Room DB, Datastore, Flow / Coroutines
 * **Advanced Features:** Foreground Services, Multi-process management, WebView integration, Third-party SDK integrations, and Monetization/Ad SDKs
 
 ---
@@ -53,7 +53,7 @@ I’m a results-driven **Senior Android Engineer** with **5+ years of profession
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SyedHassanArslan&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
-  <br/>
+  <br/><br/>
   <img src="https://streak-stats.demolab.com?user=SyedHassanArslan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
@@ -62,8 +62,7 @@ I’m a results-driven **Senior Android Engineer** with **5+ years of profession
 ## 📬 Connect With Me
 
 📧 **Email:** [hsyed7836@gmail.com](mailto:hsyed7836@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/syedhassanarslan](https://www.linkedin.com/in/syedhassanarslan)  
-💻 **GitHub:** [github.com/SyedHassanArslan](https://github.com/SyedHassanArslan)
+🔗 **LinkedIn:** <a href="https://www.linkedin.com/in/syedhassanarslan" target="_blank">linkedin.com/in/syedhassanarslan</a>
 
 ---
 
