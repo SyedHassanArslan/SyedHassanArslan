@@ -49,14 +49,12 @@ I’m a results-driven **Senior Android Engineer** with **5+ years of profession
 
 ---
 
-## 🛠️ Featured Technical Expertise
+## 🚀 Key Projects & Production Impact
 
-Instead of empty graphs, here is what I bring to the table in production-level development:
-
-* **High-Performance Document Handling:** Built robust systems for manipulating heavy documents (700+ pages) with heavy scrolling, optimizing thumbnail caching, and background thread memory management to eliminate OOM crashes.
-* **Complex Network & Security Architecture:** Experienced in building multi-process applications, handling intricate foreground services (`ForegroundServiceType`), and isolating WebView data directories securely.
-* **Real-time Data Delivery:** Integrated multi-layered football/sports APIs to construct real-time live score boards, complex fixtures tables, and dynamic standing grids.
-* **App Globalisation:** Engineered multi-lingual string localization frameworks supporting complex scripts (including Arabic, Urdu, Spanish, French, Chinese, and Hindi) dynamically.
+* **Live Sports & Data Platform:** Engineered a real-time sports dashboard integrating multi-layered API payloads to provide real-time updates for live match fixtures, league standings, and dynamic top-scorer grids with seamless caching.
+* **Secure VPN & Multi-Process Utilities:** Architected multi-process background system workflows using complex foreground service types (`ForegroundServiceType`) and isolated WebView data directories to ensure ironclad security and crash-free execution.
+* **High-Scale Content Platforms:** Designed highly optimized document-handling architectures capable of smoothly rendering and splitting massive resources (700+ pages) under fast scrolling speeds by implementing customized thumbnail management and preventing Out-Of-Memory (OOM) errors.
+* **Global App Localization Frameworks:** Developed dynamic, multi-lingual localization pipelines to handle dynamic string configurations across over 10 global languages including complex right-to-left (RTL) scripts like Arabic and Urdu.
 
 ---
 
