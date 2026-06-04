@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syed Hassan Arslan</h1>
-<h3 align="center">🚀 Senior Android Engineer | Kotlin Expert | Mobile Solutions Architect</h3>
+<h3 align="center">🚀 Senior Android Engineer | Kotlin Expert</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Android+Developer;Clean+Architecture+Advocate;Performance+Optimization+Expert+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&center=true&width=500&height=30&duration=4000&pause=1000" alt="Typing SVG" />
