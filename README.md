@@ -49,12 +49,15 @@ I’m a results-driven **Senior Android Engineer** with **5+ years of profession
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Git Activity & Overview
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SyedHassanArslan&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
-  <br/><br/>
-  <img src="https://streak-stats.demolab.com?user=SyedHassanArslan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedHassanArslan&theme=tokyonight&area=true&hide_border=true" alt="Hassan's GitHub Activity Graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedHassanArslan&theme=tokyonight" alt="Profile Details" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedHassanArslan&theme=tokyonight" alt="Stats Card" width="49%" />
 </p>
 
 ---
