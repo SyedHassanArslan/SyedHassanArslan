@@ -49,16 +49,14 @@ I’m a results-driven **Senior Android Engineer** with **5+ years of profession
 
 ---
 
-## 📊 Git Activity & Overview
+## 🛠️ Featured Technical Expertise
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SyedHassanArslan&theme=tokyonight&area=true&hide_border=true" alt="Hassan's GitHub Activity Graph" width="100%" />
-</p>
+Instead of empty graphs, here is what I bring to the table in production-level development:
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SyedHassanArslan&theme=tokyonight" alt="Profile Details" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SyedHassanArslan&theme=tokyonight" alt="Stats Card" width="49%" />
-</p>
+* **High-Performance Document Handling:** Built robust systems for manipulating heavy documents (700+ pages) with heavy scrolling, optimizing thumbnail caching, and background thread memory management to eliminate OOM crashes.
+* **Complex Network & Security Architecture:** Experienced in building multi-process applications, handling intricate foreground services (`ForegroundServiceType`), and isolating WebView data directories securely.
+* **Real-time Data Delivery:** Integrated multi-layered football/sports APIs to construct real-time live score boards, complex fixtures tables, and dynamic standing grids.
+* **App Globalisation:** Engineered multi-lingual string localization frameworks supporting complex scripts (including Arabic, Urdu, Spanish, French, Chinese, and Hindi) dynamically.
 
 ---
 
