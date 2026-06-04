@@ -1,77 +1,82 @@
 <h1 align="center">Hi 👋, I'm Syed Hassan Arslan</h1>
-<h3 align="center">🚀 Senior Android Engineer | Kotlin Expert | Tech Enthusiast</h3>
+<h3 align="center">🚀 Senior Android Engineer | Kotlin Expert | Mobile Solutions Architect</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Android+Developer;Full-Stack+Explorer;Problem+Solver+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&center=true&width=500&height=30&duration=4000&pause=1000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Passionate+Android+Developer;Clean+Architecture+Advocate;Performance+Optimization+Expert+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB&center=true&width=500&height=30&duration=4000&pause=1000" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🧠 About Me
-I’m a results-driven software engineer with **5+ years of experience** in designing, developing, and deploying high-impact Android applications.  
-I specialize in building **scalable, secure, and beautiful apps** using Kotlin, Jetpack Compose, and Clean Architecture.
+I’m a results-driven **Senior Android Engineer** with **5+ years of professional experience** in designing, developing, and deploying high-impact mobile applications. I specialize in building scalable, secure, and user-centric apps using Kotlin, Jetpack Compose, and robust architectural patterns.
 
-I love solving complex problems and building elegant tech solutions that actually help people. Let’s build the future — one line of code at a time. 💡
+* 🛠️ **What I Do:** Focus on writing clean, maintainable code, optimizing app performance, and implementing robust background architecture.
+* ⚡ **Performance Minded:** Experienced in reducing crash rates, fixing ANRs, optimizing startup times, and managing efficient local data caching.
+* 💡 **Philosophy:** Building elegant tech solutions that solve real-world problems—one clean commit at a time.
 
 ---
 
-## 🔧 Tech Stack
+## 🔧 Tech Stack & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,github,figma,react,js,html,css,ktor,firebase&perline=7" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,java,git,github,figma,ktor,firebase&perline=8" />
 </div>
 
----
-
-## 💼 Work Experience
-
-**🚀 Senior Android Developer** – *XYZ Solutions* (2021–Present)  
-• Built modern Android apps with **Jetpack Compose**, MVVM, and **Hilt DI**  
-• Improved app startup time by **40%**, reduced crashes & ANRs  
-• Led code reviews and mentored junior developers
-
-**💻 Software Engineer** – *ABC Tech* (2018–2021)  
-• Delivered cross-platform modules with shared API layers  
-• Collaborated with designers to build pixel-perfect UI  
-• Developed reusable UI components and utility libraries
+### 🛠️ Core Expertise
+* **Languages & UI:** Kotlin, Java, Jetpack Compose, XML/View System
+* **Architecture & DI:** MVVM, MVI, Clean Architecture, Dependency Injection (Hilt / Dagger)
+* **Networking & Local Data:** Retrofit, Ktor, Room DB, Datastore, Flow/Coroutines
+* **Advanced Features:** Foreground Services, Multi-process management, WebView integration, Third-party SDK integrations, and Monetization/Ad SDKs
 
 ---
 
-## 📚 Education
+## 💼 Core Engineering Experience
 
-🎓 **Bachelor of Science in Computer Science**  
-University of XYZ – *Graduated in 2018*
+**🚀 Senior Android Engineer**  
+*Leading Mobile Product Development*  
+• Architected and shipped modern Android apps utilizing **Jetpack Compose**, Coroutines, and **Clean Architecture**.  
+• Optimized app performance, improving startup times by **40%** and significantly reducing memory leaks and crash rates.  
+• Implemented advanced localization workflows, managing dynamic string resources across multiple global languages.  
+• Integrated complex background mechanisms, multi-process management, and secure proxy integrations.  
+• Spearheaded app monetization strategies, seamlessly managing next-gen Ad SDKs and user consent management (UMP).
+
+**💻 Android Developer**  
+*Mobile Software Engineering*  
+• Delivered robust modules with shared data layers, integrating RESTful APIs via Retrofit/Ktor.  
+• Collaborated closely with UI/UX designers to translate pixel-perfect Figma designs into responsive layouts.  
+• Developed highly reusable UI components, custom view hierarchies, and tailored utility libraries.  
+• Managed complete app deployment life cycles on Google Play Console, including app signing and release tracks.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=syedhassanar&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SyedHassanArslan&show_icons=true&theme=tokyonight" alt="Hassan's GitHub stats" />
   <br/>
-  <img src="https://streak-stats.demolab.com?user=syedhassanar&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=SyedHassanArslan&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 📬 Contact Me
+## 📬 Connect With Me
 
-📧 Email: [hassanarofficial@gmail.com](mailto:hassanarofficial@gmail.com)  
-🔗 LinkedIn: [linkedin.com/in/syedhassanar](https://linkedin.com/in/syedhassanar)  
-💻 GitHub: [github.com/syedhassanar](https://github.com/syedhassanar)
+📧 **Email:** [hsyed7836@gmail.com](mailto:hsyed7836@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/syedhassanarslan](https://www.linkedin.com/in/syedhassanarslan)  
+💻 **GitHub:** [github.com/SyedHassanArslan](https://github.com/SyedHassanArslan)
 
 ---
 
 ## ⚡ Fun Facts
 
-- 🧠 I think in Kotlin and dream in XML.
-- 🥷 I can debug crashes faster than you can say `NullPointerException`.
-- 🎯 I’m always learning and love sharing what I know.
+- 🧠 I think in Kotlin, write in Compose, and fallback to XML when required.
+- 🥷 I can debug multi-process lifecycles faster than you can say `NullPointerException`.
+- 🎯 Passionate about application optimization and writing modular code that scales.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=syedhassanar&style=flat-square&color=blue" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SyedHassanArslan&style=flat-square&color=blue" alt="Profile views" />
 </p>
 
 > ⭐ *Let’s connect and create something legendary together!*
